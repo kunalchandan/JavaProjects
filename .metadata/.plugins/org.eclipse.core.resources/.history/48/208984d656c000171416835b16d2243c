@@ -1,0 +1,14 @@
+
+public class Robot {
+	public static void main(String[] a) {
+		for(int x = 0; x < 10000; x++) {
+			if(Math.random() > 0.5)
+				System.out.print('/');
+			else
+				System.out.print('\');
+			if(x%10 == 0)
+				System.out.println("");
+						
+		}
+	}
+}

@@ -1,0 +1,16 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.util.*;
+public class S4Taller {
+	public static void main(String[] args) throws Exception {
+		Scanner in = new Scanner(new BufferedReader(new FileReader(new File("DATA11.txt"))));
+		int[] line1 = Integer.parseInt(in.nextLine().split(" "));
+		for(int x = 0; x < line1[0]; x++) {
+			System.out.println("Banana");
+		}
+		
+		
+	}
+}

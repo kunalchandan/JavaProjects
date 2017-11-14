@@ -1,0 +1,6 @@
+
+public class Robot {
+	public static void main(String[] a) {
+		//There's going to be robot code here; eventually.
+	}
+}
