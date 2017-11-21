@@ -1,6 +1,5 @@
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -29,13 +28,13 @@ public class LinearRegression {
 			}
 		}
 		
-		double delta = 0.1;
+		double delta = 0.005;
 
 		double slope = -1;
 		double bias = -1;
 		System.out.println(slope + " " + bias);
 		System.out.println("First Cost: " + cost(dataX, dataY, slope, bias));
-		for(int x = 0; x < 10000; x++) 
+		for(int x = 0; x < 3000; x++) 
 		{
 			double cCost = cost(dataX, dataY, slope, bias);
 			if(cCost > cost(dataX, dataY, slope, bias - delta)) {
@@ -50,7 +49,7 @@ public class LinearRegression {
 			if(cCost > cost(dataX, dataY, slope + delta, bias)) {
 				slope+=delta;
 			}
-			if(x%1000 == 0)
+			if(x%100 == 0)
 				System.out.println(cost(dataX, dataY, slope, bias));
 		}
 		System.out.println(cost(dataX, dataY, slope, bias));
