@@ -8,7 +8,6 @@ import javax.swing.SwingUtilities;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
-import org.jfree.chart.axis.NumberAxis;
 import org.jfree.chart.block.BlockBorder;
 import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.chart.plot.XYPlot;
@@ -21,7 +20,9 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 public class LineChartEx extends JFrame {
 
-    public LineChartEx() {
+	private static final long serialVersionUID = 1L;
+
+	public LineChartEx() {
 
         initUI();
     }
@@ -50,7 +51,6 @@ public class LineChartEx extends JFrame {
         series.add(30, 980);
         series.add(40, 1410);
         series.add(50, 2350);
-        XYDataItem xy = new XYDataItem(2,4);
         XYSeriesCollection dataset = new XYSeriesCollection();
         dataset.addSeries(series);
 

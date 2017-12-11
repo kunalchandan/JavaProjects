@@ -1,8 +1,7 @@
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.*;
+import java.util.Scanner;
 public class S4Taller {
 	public static void main(String[] args) throws Exception {
 		Scanner in = new Scanner(new BufferedReader(new FileReader(new File("DATA11.txt"))));
@@ -17,7 +16,7 @@ public class S4Taller {
 		for(int x = 0; x < line1[0]; x++) {
 			
 		}
-		
+		in.close();
 		
 	}
 }
