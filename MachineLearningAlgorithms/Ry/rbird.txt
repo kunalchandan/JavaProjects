@@ -1,0 +1,140 @@
+MKT100 	Marketing: Marketing I 	8 	B 	2005-01-27 08:22:53
+ENT526 	Entrepreneurship: Introduction to Entrepreneurial Behaviour 	6 	B 	2005-01-26 06:32:31
+BUS100 	Strategies of Success 	5 	A 	2005-01-21 01:20:00
+PSY 105 	Perspectives in psychology 	4 	A 	2010-03-15 21:31:43
+GEO 106 	GEOGRAPHY OF EVERYDAY LIFE 	4 	B 	2011-05-04 15:16:27
+LAW 122 	Business Law 	4 	B 	2010-12-30 14:15:47
+GMS 401 	Operations Management 	3 	A 	2011-01-03 23:17:20
+PCS 181 	Introduction to Astronomy 	3 	A 	2005-01-21 01:20:00
+POL128 	Politics and Film 	3 	A 	2005-01-21 01:20:00
+SOC203 	How Society WOrks 	3 	A 	2011-04-01 21:48:36
+		
+500584528 	Zap, Pow, Bang Pop Lit 	2 	A 	2014-03-17 22:52:51
+ENG112 	Zap Pow Bang! - Popular Literature 	2 	A 	2011-12-16 13:25:20
+FIN 502 	Personal Financial Planning 	2 	A 	2011-10-22 10:28:29
+GEO 509 	Food, Place & Identity 	2 	A 	2011-03-14 16:43:26
+GMS 200 	Introduction to Global Management 	2 	A 	2011-01-03 23:05:42
+HST777 	History of Medicine from Antiquity to 1500 CE 	2 	A 	2012-12-14 14:16:11
+OHS 208 	Occupational Health and Safety Law 	2 	A 	2011-04-06 01:32:19
+PSY 102 	Introduction to Psychology I 	2 	A 	2011-03-29 18:34:03
+PSY-308 	Psychology of Thinking 	2 	A 	2010-03-15 21:32:53
+S0C103 	How Society Works 	2 	A 	2012-11-26 15:01:28
+SSH 205 	Critical Thinking 	2 	A 	2013-08-20 23:09:24
+507 	Geography of Urban Environment 	2 	B 	2010-12-02 10:11:45
+FIN 601 	Futures and Options Market 	2 	B 	2005-01-21 01:20:00
+LIR 100 	Language and Intercultural Relations 	2 	B 	2017-12-30 11:00:41
+MKT504 	Marketing: Effective Persuasion 	2 	B 	2005-01-28 17:09:37
+		
+PHL 214 	Critical Thinking 	2 	B 	2011-09-15 22:15:31
+PHL 302 	Ethics of Health Care 	2 	B 	2011-03-14 16:48:52
+SOC202 	Popular culture 	2 	B 	2010-08-11 03:39:47
+201 	PHL 201 - Problems in Philosophy 	1 	A 	2016-08-30 08:31:25
+ACS200 	Ideas that shape the world II 	1 	A 	2015-03-16 05:11:31
+ARB 	101 	1 	A 	2014-03-17 22:05:19
+BDC 917 	Public Relations 	1 	A 	2011-03-12 17:12:12
+CFNF 400 	Social Context of Human Sexuality 	1 	A 	2017-12-27 19:13:49
+CHY 182-02 	CHY 182-021 	1 	A 	2014-01-07 12:59:57
+chy 599 	The Business of Chemistry and Biology 	1 	A 	2017-08-22 03:33:16
+CINT 906 	Sexualities: Power and Pleasure 	1 	A 	2016-11-11 02:59:31
+CINT619 	introduction to fundraising 	1 	A 	2016-09-16 19:24:23
+CMN 279 	Introduction to Professional Communication 	1 	A 	2014-07-03 15:25:33
+CMN314 	Professional Presentations 	1 	A 	2017-12-23 19:10:00
+CMUS501 	Traditional Musics of the World 	1 	A 	2012-04-27 11:35:24
+		
+CPHL606 	Philosophy of Love and Sex 	1 	A 	2012-04-27 11:38:32
+CPS 125 	DIGITAL COMPUTATION AND PROGRAMMING 	1 	A 	2016-05-12 07:33:56
+CPSY 	Psychology 	1 	A 	2014-03-20 18:45:08
+CPSY805 	Psychology of Stress Management and Coping 	1 	A 	2010-12-14 19:26:33
+CRB 100 	Introduction to the Caribbean 	1 	A 	2011-05-13 19:27:00
+CRB 500 	Families in the Caribbean 	1 	A 	2013-08-18 23:53:02
+CRM101 	Understanding Crime in Canadian Society 	1 	A 	2012-11-30 17:31:13
+CSOC 	sociology of gender 	1 	A 	2013-09-01 11:37:26
+CSPN 	spanish 	1 	A 	2014-01-08 23:49:36
+CYC 101 	Child and Youth Care 	1 	A 	2011-09-07 17:57:12
+CYC 201 	Child abuse and neglect 	1 	A 	2013-04-16 10:04:15
+DST 500 	History of Madness 	1 	A 	2010-03-25 12:46:36
+ECN 504 	ECN 504 	1 	A 	2017-11-22 02:25:08
+ECN 506 	Money and Banking 	1 	A 	2013-08-16 10:19:41
+ECN 511 	Economy and Environment 	1 	A 	2014-06-26 23:53:42
+		
+ECN503 	Economics of Human Development 	1 	A 	2012-12-25 23:44:46
+EID100 	'Digital Skills and Innovation for the Global Economy 	1 	A 	2014-01-03 17:30:49
+ENG 	Comic and tragic modes 	1 	A 	2011-08-09 11:36:40
+ENG505 	Creative Writing 	1 	A 	2014-04-25 12:05:40
+FIN 300 	FINANCE 1 	1 	A 	2014-01-03 22:53:13
+FIN 512 	Risk Management and Insurance 	1 	A 	2011-10-22 10:30:12
+FNF 400 	The Social Context of Human Sexuality 	1 	A 	2013-10-02 15:32:56
+FRE 101 	Introductory French I 	1 	A 	2011-01-03 23:10:59
+FSN 	textiles 	1 	A 	2012-03-25 21:13:03
+GCE 215 	world hunger 	1 	A 	2013-12-13 21:37:03
+GEO 108 	Geography of the Global Village 	1 	A 	2011-12-21 00:38:16
+GEO 110 	the physical environment 	1 	A 	2012-08-14 07:35:25
+GEO 210 	geography 	1 	A 	2013-12-25 22:18:51
+GEO 421 	Geography of Retailing 	1 	A 	2016-09-07 19:36:14
+GEO 507 	Exploration of the Urban Environment 	1 	A 	2011-09-06 12:33:09
+GEO 605 	The Geography of the Canadian North 	1 	A 	2013-08-19 00:02:20
+GEO 793 	The Geography of Toronto 	1 	A 	2013-08-18 23:57:50
+GEO 802 	Geography of Recreation & Leisure 	1 	A 	2011-03-14 17:00:39
+GEO206 	geography 	1 	A 	2012-10-23 10:41:22
+GEO208 	geo 	1 	A 	2013-12-25 22:13:45
+GEO701 	contempory Environmental 	1 	A 	2014-02-09 13:29:05
+GMS 802 	Ethics and Regulations of Intnational Business 	1 	A 	2012-12-11 02:54:43
+HST 119 	Fact and Fiction: History Through Film I 	1 	A 	2014-02-01 15:35:21
+HST 532 	Elizabethan england 	1 	A 	2013-03-21 19:15:11
+INT 905 	Conflict Resolution in Community Services 	1 	A 	2015-03-23 02:56:15
+INT908 	Homelessness in Canadian Society 	1 	A 	2011-01-15 00:30:10
+ITM 277 	Introduction to Information Technology and Society 	1 	A 	2012-07-28 18:20:40
+ITM 500 	Data and Information Management 	1 	A 	2014-01-11 07:40:38
+JRN 	How society works 	1 	A 	2014-08-11 20:35:36
+medical physics 	medical physics 	1 	A 	2016-09-02 07:11:27
+MKT403 	Marketing Communications 	1 	A 	2005-02-03 15:41:23
+MN8911 	population health 	1 	A 	2014-07-12 01:58:06
+MRK 300 	Marketing 	1 	A 	2011-01-20 10:22:50
+MUS 	106 	1 	A 	2012-08-23 04:24:01
+MUS 201 	Introduction to Classical Music 	1 	A 	2017-08-11 01:20:33
+MUS101 	intro to world and early european music 	1 	A 	2013-03-18 17:55:23
+MUS110 	Music and Film 	1 	A 	2014-03-15 19:11:41
+MUS211 	Music Cultures of the city 	1 	A 	2012-01-31 07:45:14
+PCS 182 	Life in the Milky Way Galaxy 	1 	A 	2016-03-15 05:01:14
+PHL 	philosophy of love and sex 	1 	A 	2014-03-17 15:17:24
+PHL110 	philosophy of religion 	1 	A 	2013-08-20 23:17:52
+PHL201 	Problems with philosophy 	1 	A 	2014-01-06 23:05:33
+POG 100 	People Power & Politics 	1 	A 	2014-01-05 23:50:08
+POG 315 	Equity and Human Rights 	1 	A 	2013-12-02 20:51:24
+POL 	politics of enviriment 	1 	A 	2013-09-29 20:05:37
+POL 501 	women, power, and politics 	1 	A 	2013-08-18 13:15:11
+POL129 	Canadian Immigration 	1 	A 	2005-01-21 01:20:00
+POL203 	Politics of the Environment 	1 	A 	2012-02-13 18:49:03
+PSY 202 	Introduction to Psychology II 	1 	A 	2010-08-31 01:57:20
+PSY 214 	Psychopharmacology 	1 	A 	2011-11-06 20:57:45
+PSY 302 	Child Development 	1 	A 	2010-08-31 01:58:19
+PSY 304 	Psychology of Gender 	1 	A 	2010-08-31 01:59:11
+PSY 308 	Psychology of Thinking 	1 	A 	2016-08-22 23:43:18
+PSY 802 	Death, Dying and Bereavement 	1 	A 	2010-08-31 01:56:08
+PSY805 	Stress, coping and adjustment 	1 	A 	2011-01-15 00:27:59
+QMS 102 	Business Statistics I 	1 	A 	2016-05-07 04:43:23
+RMG200 	Intro to Retail Management 	1 	A 	2011-12-28 12:03:01
+SCI 183 	intro to forensic science 	1 	A 	2011-12-11 19:04:43
+SOC 	Pop culture 	1 	A 	2013-08-04 18:14:50
+SOC 507 	Race and Ethnicity in Canada 	1 	A 	2014-01-16 12:35:32
+SOC 885 	Women and Islam 	1 	A 	2012-08-22 01:28:27
+SOC103 	How Society Works 	1 	A 	2005-01-21 01:20:00
+SOC503 	Sociology of Education 	1 	A 	2014-02-10 21:03:02
+SOC633 	Sexualities, Identity and Society 	1 	A 	2012-09-11 10:21:27
+SOC808 	Food and Foodways 	1 	A 	2012-04-21 10:37:03
+SPN 	101 	1 	A 	2014-03-18 13:00:21
+SPN 101 	Introductory Spanish I 	1 	A 	2016-09-04 13:36:33
+CHST 540 	Espionage 	1 	B 	2016-09-09 15:12:25
+CPHL 187 	Ancient Greek Philosophy 	1 	B 	2016-06-28 15:45:21
+E:E 719 	Fundamentals of Robotics 	1 	B 	2017-01-10 02:25:06
+MHR 405 	Organizational Behaviour and Interpersonal Skills 	1 	B 	2016-03-23 23:53:47
+MKT200 	Marketing: Marketing II 	1 	B 	2005-01-27 09:02:49
+PHL101 	Plato and the Roots of Western Philosophy 	1 	B 	2014-10-26 21:40:33
+POL 106 	Politics of Human Needs 	1 	B 	2015-03-18 01:04:05
+PSY 215 	Psychology of Addictions 	1 	B 	2011-03-14 17:09:02
+ACS 100 	Ideas that Shape the World 	1 	C 	2017-10-10 20:15:44
+ECN 210 	Inflation and Unemployment in Canada 	1 	C 	2012-08-22 06:34:48
+ECN 340 	Economics of Human Behaviour 	1 	C 	2016-10-17 04:36:16
+CCRB100 	Intro to the Caribbean 	1 	D 	2016-02-26 22:47:55
+FIN 401 	Managerial Finance 	1 	D 	2013-12-10 17:58:17
+FIN 631 	FINANCIAL MODELING 	1 	D 	2016-10-03 01:37:22

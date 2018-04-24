@@ -1,0 +1,4 @@
+Banana:4
+Apple:5
+Chicken:1
+Turkey:2

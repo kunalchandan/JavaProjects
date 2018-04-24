@@ -1,0 +1,105 @@
+ANT 100,Introduction to Anthropology
+ARB 101,Introductory Arabic I
+ARB 201,Introductory Arabic II
+BLG 181,Biology of a Living City
+BMS 150,Introduction to the Human Genome
+CHN 101,Introductory Chinese I
+CHN 201,Introductory Chinese II
+CHY 182,Chemistry Applications to Living Systems
+CHY 183,Introduction to Forensic Sciences
+CRB 100,Introduction to the Caribbean
+CRM 101,Understanding Crime in Canadian Society
+ECN 110,The Economy and Society
+ECN 205,Issues in Economic History
+ECN 210,Understanding Economics
+ECN 340,The Economics of Human Behaviour
+ECN 440,Booms, Busts, Panics and Manias
+ENG 101,Laughter and Tears: Comedy and Tragedy
+ENG 104,The Short Story
+ENG 112,Zap, Pow, Bang: Pop Lit
+ENG 201,Myth and Literature
+ENG 203,The Literature of Native Peoples
+ENG 212,Cultures in Crisis
+EUS 180,Global Water Issues
+FNU 100,Canadian Cuisine: Historical Roots
+FNU 101,Food Practices and Policy
+FRE 101,Introductory French I
+FRE 201,Introductory French II
+FRS 102,Francophone Detective Fiction
+GEO 106,Geographies of Everyday Life
+GEO 108,Geography of the Global Village
+GEO 110,The Physical Environment
+GEO 206,Regions, Nations and the Global Community
+GEO 208,Geography of the Global Economy
+GEO 210,Geography of Danger
+GEO 312,Viva Las Vegas!
+GRK 100,Introduction to Attic Greek
+HST 110,U.S. History: Colonial Era to 1877
+HST 111,World Turned Upside Down: Europe 1350-1789
+HST 112,East Meets West: Asia in the World
+HST 118,The City in History
+HST 119,Rise of Empires: History Through Film
+HST 147,Introduction to South Asian Civilization
+HST 207,Introduction to Ancient Greece and Rome
+HST 210,U.S. History: 1877 to the Present
+HST 211,Century of Revolution: Europe 1789-1914
+HST 219,Decolonization: History Through Film
+HST 222,The History of The Caribbean
+HST 307,Canada to 1885: The Founding Societies
+HST 325,History of Science and Technology I
+HST 328,Multiple Ontarios: 1784 to the Present
+HST 407,Canada from 1885: The Struggle for Identity
+HST 425,History of Science and Technology II
+HST 426,Major Themes in International Relations
+HST 488,Britain since 1815
+IRL 100,Intro to World Art I: Pictorial Arts
+IRL 200,Introduction to World Textile History
+ITM 277,Intro to Information Technology and Society
+LNG 111,Language and Identity
+LNG 112,Spoken and Written Language
+LNG 113,Language and Public Life
+LNG 121,Language and Society
+MEC 110,Energy and the Environment
+MUS 101,Intro to World and Early European Music
+MUS 105,Voices Without Borders: Global Chorus
+MUS 106,The Architecture of Music
+MUS 201,Introduction to Classical Music
+NPF 188,From Page to Screen
+PCS 111,Physics in the News
+PCS 181,Introduction to Astronomy
+PCS 182,Life in the Milky Way Galaxy
+PHL 101,Plato and the Roots of Western Philosophy
+PHL 110,Philosophy of Religion I
+PHL 187,Ancient Greek Philosophy
+PHL 201,Problems in Philosophy
+PHL 214,Critical Thinking I
+PHL 306,Freedom, Equality, Limits of Authority
+PHL 333,Philosophy of Human Nature
+PHL 365,Philosophy of Beauty
+PHL 366,Existentialism and Art and Culture
+PHL 406,Issues of Life, Death and Poverty
+POL 106,The Politics of Human Needs
+POL 128,Politics and Film
+POL 129,Immigration and Settlement in Canada
+POL 203,Politics of the Environment
+POL 208,Globalization and World Politics
+PSY 105,Perspectives in Psychology
+PSY 304,Psychology of Gender
+PSY 308,Psychology of Thinking
+REL 100,Introduction to Religious Studies
+REL 101,Introduction to World Religions
+RTA 180,Music and Film
+RTA 406,Chinese Instrumental Music
+RTA 441,Music of India
+RTA 474,Gospel Music: Songs for the Spirit
+RTA 484,Music of West Africa
+SEM 101,Sign, Sense and Meaning
+SOC 102,Human Origins
+SOC 103,How Society Works
+SOC 108,Indigenous Peoples and Decolonization
+SOC 202,Popular Culture
+SOC 203,Social Class and Inequality
+SOC 305,Sociology of Deviance
+SPN 101,Introductory Spanish I
+SPN 201,Introductory Spanish II
+THL 100,Theatre and the Canadian Identity

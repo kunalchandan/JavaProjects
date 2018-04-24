@@ -1,4 +1,2 @@
-
-\.recommenders/
-
-\.metadata/
+.recommenders/**
+.metadata/**
